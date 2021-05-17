@@ -2,7 +2,7 @@ name: Deploy
 
 
 on: 
-  pulsh:
+  push:
     branches:
       - main
 
